@@ -21,6 +21,7 @@ def lines_lengths():
     text=a.readlines()
     for line in text:
      print(line)
+    # test git
      
 def deleteFile():   
     a=open("test.txt","r")  
